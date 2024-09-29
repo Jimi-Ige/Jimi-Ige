@@ -6,7 +6,7 @@ I'm Jimi, a cloud security professional with a strong foundation in agile method
 ## Objective
 I aim to leverage my agile background and technical skills to deliver secure, scalable, and compliant cloud solutions. Through my portfolio, I demonstrate expertise in Azure Entra, Key Vault, and Azure Sentinel for incident response, showcasing how I align cloud security with business objectives.
 
-##Skills
+## Skills
 | **Skill**                                         | **Associated Project**         | **Business Value**                        |
 |---------------------------------------------------|--------------------------------|-------------------------------------------|
 | SIEM Implementation and Log Analysis Using Azure Sentinel | Link tbd                       | Provides real-time threat detection and automates incident response, reducing response times and improving security insights. |
