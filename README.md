@@ -6,11 +6,11 @@ I'm Jimi, a cloud security professional with a strong foundation in agile method
 ## Objective
 I aim to leverage my agile background and technical skills to deliver secure, scalable, and compliant cloud solutions. Through my portfolio, I demonstrate expertise in Azure Entra, Key Vault, and Azure Sentinel for incident response, showcasing how I align cloud security with business objectives.
 
-## Skills
-| **Skill**                                         | **Associated Project**         | **Business Value**                        |
-|---------------------------------------------------|--------------------------------|-------------------------------------------|
-| SIEM Implementation and Log Analysis Using Azure Sentinel | Link tbd                       | Provides real-time threat detection and automates incident response, reducing response times and improving security insights. |
-| Proactive Threat Detection with Microsoft Defender | Link tbd                       | Mitigates threats before they escalate, reducing risk exposure and improving security posture across cloud environments. |
-| Data Governance and Compliance with Microsoft Purview        | Link tbd                       | Ensures compliance with industry regulations (e.g., GDPR, SOC 2) by enhancing visibility and control over sensitive data. |
-| Zero Trust with Key Vault                         | Link tbd                       | Strengthens data protection and reduces the risk of unauthorized access by applying Zero Trust principles and securing sensitive assets. |
-| Role-Based Access with Microsoft Entra            | Link tbd                       | Enhances security by enforcing the principle of least privilege, ensuring appropriate access control across cloud systems. |
+## Projects
+| **Skill**                                         | **Associated Project**         | **Business Value**                        | **Key Tools**                            |
+|---------------------------------------------------|--------------------------------|-------------------------------------------|------------------------------------------|
+| SIEM Implementation and Log Analysis Using Azure Sentinel | Link tbd                       | Provides real-time threat detection and automates incident response, reducing response times and improving security insights. | Azure Sentinel, Log Analytics, Playbooks |
+| Proactive Threat Detection with Microsoft Defender | Link tbd                       | Mitigates threats before they escalate, reducing risk exposure and improving security posture across cloud environments. | Microsoft Defender, Azure Security Center |
+| Data Governance and Compliance with Microsoft Purview        | Link tbd                       | Ensures compliance with industry regulations (e.g., GDPR, SOC 2) by enhancing visibility and control over sensitive data. | Microsoft Purview, Data Catalog, Azure Policy |
+| Zero Trust with Key Vault                         | Link tbd                       | Strengthens data protection and reduces the risk of unauthorized access by applying Zero Trust principles and securing sensitive assets. | Azure Key Vault, Azure AD, Conditional Access |
+| Role-Based Access with Microsoft Entra            | Link tbd                       | Enhances security by enforcing the principle of least privilege, ensuring appropriate access control across cloud systems. | Microsoft Entra, RBAC, Azure AD |
