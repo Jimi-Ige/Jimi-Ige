@@ -1,7 +1,7 @@
 # Hello, I'm Jimi
 <a href="https://www.linkedin.com/in/jimi-ige"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I'm Jimi, a cloud security professional with a strong foundation in agile methodologies, project management, and organizational change management, now focused on cloud and cybersecurity technologies. I hold certifications such as Security+ AZ-900, SC-900, and soon AZ-500 I have gained hands-on experience in enterprise-scale security architectures, Zero Trust frameworks, and DevSecOps automation. I am also pursuing the AZ-500 and CISM certifications to deepen my expertise.
+I'm a technical program and project manager with a strong foundation in agile methodologies, project management, and organizational change management. I'm now focused on cloud and cybersecurity technologies. I hold certifications such as Security+ AZ-900, SC-900, and soon AZ-500. I have gained hands-on experience in enterprise-scale security architectures, Zero Trust frameworks, and DevSecOps automation. I am also pursuing the AZ-500 and CISM certifications to deepen my expertise.
 
 ## Objective
 I aim to leverage my agile background and technical skills to deliver secure, scalable, and compliant cloud solutions. Through my portfolio, I demonstrate expertise in Azure Entra, Key Vault, and Azure Sentinel for incident response, showcasing how I align cloud security with business objectives.
