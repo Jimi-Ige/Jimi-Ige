@@ -1,7 +1,10 @@
 # Hello, I'm Jimi
 <a href="https://www.linkedin.com/in/jimi-ige"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome! This repository chronicles my professional development as I transition from a technically adjacent role to one centered on **Cloud**, **Cybersecurity**, and **AI**. It includes certifications, practical projects, and reflections, demonstrating my growth as a technologist and leader. I have a strong foundation in agile methodologies, project management, and organizational change management. I'm now focused on AI, Cloud, and Cyber technologies. I hold certifications such as Security+ AZ-900, SC-900, and soon AZ-500. I have gained hands-on experience in enterprise-scale security architectures, Zero Trust frameworks, and DevSecOps automation. I am also pursuing the AZ-500 and CISM certifications to deepen my expertise.
+Welcome! I have a strong foundation in agile methodologies, project management, and organizational change management. I'm now focused on AI, Cloud, and Cyber technologies. I hold certifications such as Security+ AZ-900, SC-900, and soon AZ-500. I have gained hands-on experience in enterprise-scale security architectures, Zero Trust frameworks, and DevSecOps automation. I am also pursuing the AZ-500 and CISM certifications to deepen my expertise.
+
+## About This Repo
+This repository chronicles my professional development as I transition from technically adjacent project and program management roles to technically centric roles leveraging cutting edge **Cloud**, **Cybersecurity**, and **AI** technologies. It includes certifications, practical projects, and reflections, demonstrating my growth as a technologist and leader. 
 
 ## Objective
 I aim to leverage my agile background and technical skills to establish myself as a trusted authority in Cloud, Cyber, and AI-driven solutions while championing the use of technology for social impact. I aim to contribute to forward-thinking organizations in a hybrid role, such as a Technical Program Manager, Project Manager, or Product Manager, where I can bridge leadership, strategy, and technical expertise to drive innovation. Through my portfolio, I demonstrate the delivery of secure, scalable, and compliant cloud solutions that align cloud security with business objectives.
