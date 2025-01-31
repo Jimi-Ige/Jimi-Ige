@@ -19,7 +19,7 @@ I aim to leverage my agile background and technical skills to establish myself a
 | [**Security+** (CompTIA Security+)](https://www.credly.com/badges/12da2293-a958-4956-a5b1-21ec1950e99a/public_url) | ✅ Completed  | Validates core cybersecurity knowledge and foundational skills in security practices. 
 | [**AZ-900** (Azure Fundamentals)](https://learn.microsoft.com/api/credentials/share/en-us/JimiIge-9454/D99ED26012609F59?sharingId=87CBD46E2FBC7735)   | ✅ Completed  | Foundational knowledge of Azure cloud services, critical for advanced cloud roles.                 |
 | [**SC-900** (Security, Compliance, and Identity)](https://learn.microsoft.com/api/credentials/share/en-us/JimiIge-9454/9EAF8BE4E0E04C78?sharingId=87CBD46E2FBC7735) | ✅ Completed  | Baseline knowledge of security and compliance principles.|
-| **AI-900** (Azure AI Fundamentals) | ✅ Completed | Foundational knowledge of AI and ML concepts, essential for ethical and impactful AI development.  |
+| [**AI-900** (Azure AI Fundamentals)](https://learn.microsoft.com/en-us/users/jimiige-9454/credentials/e34e0eac2d689129?ref=https%3A%2F%2Fwww.linkedin.com%2F) | ✅ Completed | Foundational knowledge of AI and ML concepts, essential for ethical and impactful AI development.  |
 | **AZ-104** (Azure Administrator) | ⏳ In Progress   | Implementation, management, and monitoring of Azure systems.                                       |
 | **AZ-500** (Azure Security Engineer) | 🟡 Planned | Advanced knowledge of Azure security, governance, and compliance.|
 | **AZ-305** (Azure Security Engineer) | 🟡 Planned | Design secure, scalable, and compliant cloud architectures.|   
